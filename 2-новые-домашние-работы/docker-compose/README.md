@@ -1,13 +1,18 @@
 
 <img width="1108" height="164" alt="image" src="https://github.com/user-attachments/assets/d40564d0-0eb7-4134-ac90-5151db013052" />
+
 ---
 <img width="1105" height="302" alt="image" src="https://github.com/user-attachments/assets/12d15ff4-7892-4298-a6e6-ff43ffaa85c4" />
+
 ---
 ![Uploading image.png…]()
+
 ---
 ![Uploading image.png…]()
+
 ---
 ![Uploading image.png…]()
+
 ---
 
 ## Этот проект демонстрирует среду, использующую Docker, включающую:
